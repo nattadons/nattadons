@@ -36,8 +36,9 @@ link to : (https://github.com/neskinggoblin/Pfizer-shooting)<br>
 ฝึกทำ full stack <br>
 client : (https://github.com/neskinggoblin/client)<br> 
 server : (https://github.com/neskinggoblin/server)<br> 
-• ฝึกสร้างเว็ปไซต์ ใช้ React 
-• Figma, Postman,node.js
+• ฝึกสร้างเว็ปไซต์ ใช้ React <br> 
+• Figma ใช้ออกเเบบ <br> 
+• Postman, node.js <br> 
 
 
 
