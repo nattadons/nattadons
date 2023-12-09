@@ -4,7 +4,7 @@
 I'm a passionate software developer...
 
 ## Projects
-- [Project 1] ShoepeeX <br>
+- # ShoepeeX <br>
 • It's an online shoe ordering website with recommended products in stock.<br>
 • login system, add to cart, search feature ,ordering history.<br>
 • HTML,Bootstrap ,Docker,JavaScript ,Python,Flask, jQuery,JSON<br>
