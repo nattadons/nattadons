@@ -12,8 +12,10 @@ link to : (https://github.com/cscmu-cs212/65_212_proj_g11/tree/main)<br>
 
 
 <br>
-- [Project 2](link-to-project-2): Description of Project 2.
-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-- ![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)
+### CSSupport 
+link to : (https://github.com/Codezilla-CMU/CSSupport)<br> 
+CS Support is a platform designed to support computer science students by providing access to resources, facilitating discussions, and fostering collaboration within the community.<br> 
+
+
 
 
