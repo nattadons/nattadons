@@ -4,11 +4,11 @@
 I'm a passionate software developer...
 
 ## Projects
-- ShoepeeX
+- [Project 1] ShoepeeX <br>
 • It's an online shoe ordering website with recommended products in stock.<br>
 • login system, add to cart, search feature ,ordering history.<br>
 • HTML,Bootstrap ,Docker,JavaScript ,Python,Flask, jQuery,JSON<br>
-link:https://github.com/cscmu-cs212/65_212_proj_g11/tree/main<br>
+link to : (https://github.com/cscmu-cs212/65_212_proj_g11/tree/main)<br>
 
 <br>
 - [Project 2](link-to-project-2): Description of Project 2.
