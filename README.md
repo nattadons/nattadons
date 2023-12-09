@@ -29,7 +29,15 @@ link to : (https://github.com/Codezilla-CMU/CSSupport)<br>
 link to : (https://github.com/neskinggoblin/Pfizer-shooting)<br> 
 • เกม JAVA 2D เเนวยิงอุกาบาต เเต่เป็นไวรัส <br> 
 • ใช้ภาษา JAVA เเละ การเขียนโปรเเกรมเชิงวัตถุ OOP <br> 
-• ใช้ โปรเเกรม eclipse  <br> 
+• ใช้ โปรเเกรม eclipse  <be> 
+
+
+### Project build React web <br>
+ฝึกทำ full stack <br>
+client : (https://github.com/neskinggoblin/client)<br> 
+server : (https://github.com/neskinggoblin/server)<br> 
+• ฝึกสร้างเว็ปไซต์ ใช้ React 
+• Figma, Postman,node.js
 
 
 
