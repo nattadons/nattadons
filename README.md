@@ -14,7 +14,7 @@ link to : (https://github.com/cscmu-cs212/65_212_proj_g11/tree/main)<br>
 
 ### CSSupport <br>
 link to : (https://github.com/Codezilla-CMU/CSSupport)<br> 
-CS Support is a platform designed to support computer science students by providing access to resources, facilitating discussions, and fostering collaboration within the community.<br> 
+• CS Support is a platform designed to support computer science students by providing access to resources, facilitating discussions, and fostering collaboration within the community.<br> 
 
 
 
