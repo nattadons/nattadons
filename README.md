@@ -25,13 +25,14 @@ link to : (https://github.com/nattadons/Foodpad?tab=readme-ov-file)<br>
 FoodPad is an innovative mobile application that transforms cooking into an exciting and engaging experience. Combining recipe management with gamification, the app makes learning and preparing meals fun and interactive.
 
 
-### Project build React web <br>
-ฝึกทำ full stack <br>
-client : (https://github.com/neskinggoblin/client)<br> 
-server : (https://github.com/neskinggoblin/server)<br> 
-• ฝึกสร้างเว็ปไซต์ ใช้ React <br> 
-• Figma ใช้ออกเเบบ <br> 
-• Postman, node.js <br> 
+### Bloggy
+link to: (https://github.com/nattadons/bloggy)  
+Live Demo: [https://bloggy-mocha-one.vercel.app/](https://bloggy-mocha-one.vercel.app/)
+
+• Bloggy is a full-stack personal blogging platform where users can create, manage, and share content after signing in.  
+• Next.js, TypeScript, Tailwind CSS, NextAuth.js, Prisma, Cloudinary  
+• Features include social authentication, rich text editing, comment system, post saving, and responsive design.  
+• Built with a focus on performance, usability, and modern web development practices.
 
 
 
