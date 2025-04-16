@@ -27,8 +27,6 @@ FoodPad is an innovative mobile application that transforms cooking into an exci
 
 ### Bloggy
 link to: (https://github.com/nattadons/bloggy)  
-Live Demo: [https://bloggy-mocha-one.vercel.app/](https://bloggy-mocha-one.vercel.app/)
-
 • Bloggy is a full-stack personal blogging platform where users can create, manage, and share content after signing in.  
 • Next.js, TypeScript, Tailwind CSS, NextAuth.js, Prisma, Cloudinary  
 • Features include social authentication, rich text editing, comment system, post saving, and responsive design.  
